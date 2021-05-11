@@ -5,11 +5,11 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "grunt": "^0.4.4",
-    "grunt-contrib-jshint": "^0.10.0"
+    "grunt": "^1.4.0",
+    "grunt-contrib-jshint": "^3.0.0"
   },
   "dependencies": {
-    "lodash": "^2.4.1",
-    "matchdep": "^0.3.0"
+    "lodash": "^4.0.0",
+    "matchdep": "^2.0.0"
   }
 }
